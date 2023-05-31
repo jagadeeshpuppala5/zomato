@@ -1,0 +1,25 @@
+body{
+    background-color: #0000e6;
+}
+h1{
+    background-color: orangered;
+    color: white;
+    text-align: center;
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+.foodCard{
+    width: 350px;
+    border: 1px solid lightgrey;
+    padding: 12px;
+    margin: 12px;
+    border-radius: 10px;
+    background-color: white;
+}
+.foodContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
